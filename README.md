@@ -58,7 +58,10 @@ Espera a que termine la instalación (puede tardar unos minutos).
 
 Copia el archivo de imagen **`LC08_L1TP_009058_20251208_20251217_02_T1_Bandas1-7.tif`** dentro de la misma carpeta donde descomprimiste el proyecto, al lado del archivo `clasificador_roi.py`.
 
-> ⚠️ El archivo `.tif` no está incluido en el repositorio por su tamaño. Si no dispone del archivo, puede solicitárselo al estudiante.
+> ⚠️ El archivo `.tif` no está incluido en el repositorio por su tamaño.  
+> Puedes descargarlo desde el siguiente enlace:  
+> [Descargar imagen Landsat 8](https://udistritaleduco-my.sharepoint.com/:i:/g/personal/smoralest_udistrital_edu_co/IQAe4vWjmB9RTqriUzIKiNHbAQtUVusKoMEvNQnGxsJa0GA?e=QZoTuP)  
+> Una vez descargado, colócalo en la misma carpeta que `clasificador_roi.py`.
 
 ---
 
