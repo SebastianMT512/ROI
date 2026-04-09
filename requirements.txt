@@ -1,0 +1,22 @@
+# requirements.txt
+# Dependencias para clasificador_roi.py
+# Instalación:
+#   pip install -r requirements.txt
+#   (En sistemas con Python gestionado: pip install -r requirements.txt --break-system-packages)
+#
+# Probado con Python 3.9+
+
+# Lectura y escritura de archivos GeoTIFF y datos geoespaciales
+rasterio>=1.3.0
+
+# Álgebra lineal, operaciones con arreglos multidimensionales
+numpy>=1.23.0
+
+# Visualización interactiva (ventanas, widgets, plots)
+matplotlib>=3.6.0
+
+# Geometría vectorial: polígonos, punto-en-polígono, etc.
+shapely>=2.0.0
+
+# Manejo de tablas / exportación a CSV
+pandas>=1.5.0

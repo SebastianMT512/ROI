@@ -1,0 +1,21 @@
+# ── Imagen Landsat (archivos pesados) ────────────────────────────────────────
+*.tif
+*.TIF
+*.tiff
+*.TIFF
+
+# ── Salida del programa ───────────────────────────────────────────────────────
+*.csv
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# ── Sistema operativo ─────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
